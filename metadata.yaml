@@ -1,0 +1,37 @@
+_repo: Andiron-Tales_24130
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Dwiggins, Clare Victor
+    alias: Dwig
+    birthdate: 1874
+    deathdate: 1958
+    gutenberg_agent_id: '9038'
+    url: http://www.gutenberg.org/2009/agents/9038
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bangs, John Kendrick
+    birthdate: 1862
+    deathdate: 1922
+    gutenberg_agent_id: '979'
+    url: http://www.gutenberg.org/2009/agents/979
+    wikipedia: http://en.wikipedia.org/wiki/John_Kendrick_Bangs
+description: ''
+gutenberg_issued: '2008-01-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24130'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcsh 'Fireplaces -- Juvenile fiction'
+- !lcsh 'Andirons -- Juvenile fiction'
+- !lcc 'PZ'
+title: Andiron Tales
+url: http://www.gutenberg.org/ebooks/24130
